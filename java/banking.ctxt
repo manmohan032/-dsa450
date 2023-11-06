@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=banking
+comment1.params=n\ p\ a\ phn
+comment1.target=Bank(java.lang.String,\ java.lang.String,\ double,\ long)
+comment2.params=
+comment2.target=void\ dedit()
+comment3.params=
+comment3.target=void\ credit()
+comment4.params=
+comment4.target=boolean\ checkPass()
+comment5.params=
+comment5.target=void\ changePass()
+comment6.params=
+comment6.target=void\ showAmt()
+comment7.params=
+comment7.target=void\ details()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

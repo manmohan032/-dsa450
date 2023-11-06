@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=polygon
+comment1.params=length\ breadth
+comment1.target=void\ getarea(int,\ int)
+numComments=2
